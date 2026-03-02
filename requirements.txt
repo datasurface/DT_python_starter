@@ -1,0 +1,2 @@
+datasurface>=0.5.12
+sqlalchemy>=2.0
